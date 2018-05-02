@@ -2,7 +2,7 @@
 int main()
 {
     //following statments have different errors
-    //it's a exercise to get familiar with complier's error messages
+    //it's an exercise to get familiar with complier's error messages
     std::cout << "Read each file." << std::endl:
     std::cout << Update master. << std::endl;
     std::cout << "Write new master."  std::endl;
